@@ -8,6 +8,8 @@ const nextConfig: NextConfig = {
    */
   output: "export",
 
+  distDir: 'output',
+
   /**
    * Set base path. This is usually the slug of your repository.
    *
